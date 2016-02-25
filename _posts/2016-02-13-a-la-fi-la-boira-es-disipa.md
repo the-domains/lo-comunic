@@ -1,19 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:7ab5feac-9465-4ab2-b91e-fdae51d1c4a4'
+inLanguage: null
+starred: true
+keywords: []
 description: ''
+datePublished: '2016-02-25T08:16:04.245Z'
+dateModified: '2016-02-25T08:15:56.500Z'
 author: []
-datePublished: '2016-02-17T16:51:17.296Z'
+title: A la fi la boira es disipa...
+sourcePath: _posts/2016-02-13-a-la-fi-la-boira-es-disipa.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
-title: A la fi la boira es disipa...
-dateModified: '2016-02-13T11:43:21.406Z'
-sourcePath: _posts/2016-02-13-a-la-fi-la-boira-es-disipa.md
-published: true
-starred: true
-inFeed: true
-hasPage: true
-inNav: false
-url: a-la-fi-la-boira-es-disipa/index.html
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
