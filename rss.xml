@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lo comunic]]></title>
         <description><![CDATA[Lo comunic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lo-comunic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 16:52:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 10:02:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lo-comunic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A la fi la boira es disipa...]]></title>
             <description><![CDATA[<article><h1>A la fi la boira es disipa...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/560956d1f3c8b9180c35ec7fb260fbe2435335f3.png"></article>]]></description>
-            <link>undefineda-la-fi-la-boira-es-disipa/index.html</link>
+            <link>urn:uuid:7ab5feac-9465-4ab2-b91e-fdae51d1c4a4</link>
             <guid isPermaLink="false">c8796a9e-cb29-435f-aea2-b152afe4e032</guid>
-            <pubDate>Wed, 17 Feb 2016 16:51:17 GMT</pubDate>
+            <pubDate>Wed, 18 May 2016 10:02:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
